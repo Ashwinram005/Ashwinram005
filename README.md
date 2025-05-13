@@ -34,7 +34,6 @@
 ---
 
 ### 🔗 Let's Connect
-- 👉 [Download My Resume](https://github.com/Ashwinram005/Ashwinram005/blob/main/ASHWINRAM-M%20FINAL%20RES.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashwinram-m-425314291/) *(update this link if available)*
 - 📬 ashwinram2810@gmail.com
 
