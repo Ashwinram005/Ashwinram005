@@ -35,7 +35,7 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](linkedin.com/in/ashwinram-m-425314291) *(update this link if available)*
+- 💼 [LinkedIn]([linkedin.com/in/ashwinram-m-425314291](https://www.linkedin.com/in/ashwinram-m-425314291/)) *(update this link if available)*
 - 📬 ashwinram2810@gmail.com
 
 ---
