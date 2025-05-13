@@ -1,11 +1,8 @@
-- 👋 Hi, I’m ASHWINRAM M
-- 👀 I’m interested in App Development(MERN Stack)
-- 🌱 I’m currently learning B.E CSE
-- 💞️ I’m looking to collaborate on freelance projects
-- 📫 How to reach me ashwinram2810@gmail.com
+# 👋 Hey there! I’m ASHWINRAM M
 
+- 💻 Passionate about App Development, especially using the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🎓 Currently pursuing a **B.E. in Computer Science and Engineering**
+- 🤝 Open to collaborating on **freelance projects** and internships
+- 📧 Reach me at: **ashwinram2810@gmail.com**
 
-<!---
-Ashwinram005/Ashwinram005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Always learning, building, and exploring new technologies to grow as a full-stack developer!
