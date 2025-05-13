@@ -1,6 +1,6 @@
 # Ashwinram M
 
-🎓 Computer Science Student | 💻 MERN Stack Developer | 🌱 Always Learning
+🎓 Computer Science Student | 💻 Full Stack Developer | 🌱 Always Learning
 
 ---
 
