@@ -1,37 +1,35 @@
-<h1 align="center">Hey there 👋 I'm Ashwinram M</h1>
+# Ashwinram M
 
-<p align="center">
-  💻 Full-Stack Developer (MERN) | 🎓 CSE Undergrad | 🌱 Lifelong Learner
-</p>
+🎓 Computer Science Student | 💻 MERN Stack Developer | 🌱 Always Learning
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-- 🎓 Pursuing B.E. in Computer Science and Engineering  
-- 💻 Focused on building full-stack web apps using the **MERN Stack**  
-- 🌱 Always learning, building, and improving  
-- 🤝 Open to **internships**, **freelance work**, and **collaborations**
+I’m a passionate developer focused on building modern web applications using the **MERN Stack**.  
+Currently pursuing a **B.E. in Computer Science and Engineering**.
+
+- 💻 Full-Stack Development (MongoDB, Express, React, Node.js)  
+- ✨ Clean, maintainable code with real-world use  
+- 🔍 Looking for **internship** and **collaboration** opportunities  
 
 ---
 
-### 💼 Tech Stack
+## Skills
 
 - **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Others:** Git, GitHub, Postman, VS Code
+- **Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
 
-### 🔗 Connect with Me
+## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashwinram-m-425314291/)  
-- 📧 ashwinram2810@gmail.com
+- 📧 ashwinram2810@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ashwinram-m-425314291/)
 
 ---
 
-<p align="center">
-  🚀 "Passionate about building. Focused on growing."
-</p>
+_"Code simply. Build efficiently. Grow consistently."_
