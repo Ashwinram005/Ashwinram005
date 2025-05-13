@@ -18,10 +18,9 @@
 
 ### 💼 Tech Stack
 
-- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS, ShadCN UI  
+- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, Mongoose  
-- **Auth:** JWT, OAuth  
+- **Database:** MongoDB  
 - **Tools:** Git, GitHub, Postman, VS Code  
 
 ---
@@ -34,17 +33,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinram2810&show_icons=true&theme=default" alt="Ashwinram's GitHub stats" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashwinram) *(update this link if available)*
+- 💼 [LinkedIn](linkedin.com/in/ashwinram-m-425314291) *(update this link if available)*
 - 📬 ashwinram2810@gmail.com
 
 ---
