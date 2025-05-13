@@ -53,7 +53,7 @@
 ### 📫 Let’s Connect
 
 - 📧 Email: [ashwinram2810@gmail.com](mailto:ashwinram2810@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashwinram) *(Update this link if you have one)*
+- 💼 [LinkedIn][(https://www.linkedin.com/in/ashwinram](https://www.linkedin.com/in/ashwinram-m-425314291/)) *(Update this link if you have one)*
 - 💻 [Portfolio Website](#) *(Optional - add if you have a portfolio site)*
 
 ---
