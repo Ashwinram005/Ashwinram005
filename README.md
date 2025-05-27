@@ -20,7 +20,8 @@ Currently pursuing a **B.E. in Computer Science and Engineering**.
 - **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Tools:** Git, GitHub, Postman, VS Code  
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Languages:** C++, Java
 
 ---
 
