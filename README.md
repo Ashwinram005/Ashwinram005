@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a passionate developer focused on building modern web applications using the **MERN Stack**.  
+I’m a passionate developer focused on building modern web applications.  
 Currently pursuing a **B.E. in Computer Science and Engineering**.
 
 - 💻 Full-Stack Development (MongoDB, Express, React, Node.js)  
