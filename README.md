@@ -1,20 +1,10 @@
 # Ashwinram M
 
-🎓 Computer Science Student | 💻 Full Stack Developer
----
+Hi, I’m Ashwinram.  
+I’m a Computer Science and Engineering student interested in software development.
 
-## About Me
+Currently pursuing my bachelor’s degree.  
+Open to internships, freelance projects, and collaboration opportunities.
 
-I’m a passionate developer focused on building modern applications.  
-Currently pursuing a **B.E. in Computer Science and Engineering**.
----
-
-
-## Contact
-
-- 📧 ashwinram2810@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ashwinram-m-425314291/)
-
----
-
-_"Code simply. Build efficiently. Grow consistently."_
+Email: ashwinram2810@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ashwinram-m-425314291/
