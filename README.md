@@ -1,4 +1,4 @@
-# Ashwinram M
+# ASHWINRAM M
 
 Hi, I’m Ashwinram.  
 I’m a Computer Science and Engineering student interested in software development.
