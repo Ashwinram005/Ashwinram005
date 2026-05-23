@@ -1,9 +1,11 @@
 # Ashwinram M
 
 Hi, I’m Ashwinram.
+
 I’m a Computer Science and Engineering student interested in software development.
 
 Currently pursuing my bachelor’s degree.
+
 Open to internships, freelance projects, and collaboration opportunities.
 
 ## 📄 Resume
