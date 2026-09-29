@@ -8,9 +8,9 @@ Currently pursuing my bachelor’s degree.
 
 Open to freelance projects, and collaboration opportunities.
 
-## 📄 Resume
+## 📄 Portfolio
 
-https://drive.google.com/file/d/13Yu80O0eW1KgJleRLjq-WDdUZw8AMGdj/view?usp=sharing
+https://ashwinram-portfolio.vercel.app/
 
 ## 📫 Contact
 
