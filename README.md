@@ -4,8 +4,6 @@ Hi, I’m Ashwinram.
 
 I’m a Computer Science and Engineering student interested in software development.
 
-Currently pursuing my bachelor’s degree.
-
 Open to freelance projects, and collaboration opportunities.
 
 ## 📄 Portfolio
